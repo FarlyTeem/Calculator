@@ -1,0 +1,52 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu]
+  Caption = #1055#1086#1084#1086#1097#1100
+  ClientHeight = 221
+  ClientWidth = 237
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 8
+    Top = 8
+    Width = 163
+    Height = 13
+    Caption = '1) '#1058#1099#1082#1072#1077#1096#1100' '#1082#1091#1088#1089#1086#1088#1086#1084' '#1085#1072' '#1082#1085#1086#1087#1082#1080
+  end
+  object Label2: TLabel
+    Left = 8
+    Top = 24
+    Width = 214
+    Height = 13
+    Caption = '2) '#1058#1099#1082#1072#1077#1096#1100' '#1082#1091#1088#1089#1086#1088#1086#1084' '#1085#1072' '#1082#1085#1086#1087#1082#1091' '#1076#1077#1081#1089#1090#1074#1080#1103
+  end
+  object Label3: TLabel
+    Left = 8
+    Top = 40
+    Width = 163
+    Height = 13
+    Caption = '3) '#1058#1099#1082#1072#1077#1096#1100' '#1082#1091#1088#1089#1086#1088#1086#1084' '#1085#1072' '#1082#1085#1086#1087#1082#1080
+  end
+  object Label4: TLabel
+    Left = 8
+    Top = 56
+    Width = 143
+    Height = 13
+    Caption = '4) '#1058#1099#1082#1072#1077#1096#1100' '#1082#1091#1088#1089#1086#1088#1086#1084' '#1085#1072' "="'
+  end
+  object Label5: TLabel
+    Left = 8
+    Top = 75
+    Width = 50
+    Height = 13
+    Caption = '5) PROFIT'
+  end
+end

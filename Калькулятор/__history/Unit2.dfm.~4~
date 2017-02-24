@@ -1,0 +1,32 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
+  Caption = #1054' '#1087#1088#1086#1075#1088#1072#1084#1084#1077
+  ClientHeight = 69
+  ClientWidth = 199
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label3: TLabel
+    Left = 8
+    Top = 14
+    Width = 165
+    Height = 13
+    Caption = #1056#1072#1079#1088#1072#1073#1086#1090#1095#1080#1082': '#1040#1083#1077#1082#1089#1072#1085#1076#1088#1086#1074' '#1045#1075#1086#1088
+  end
+  object Label4: TLabel
+    Left = 8
+    Top = 40
+    Width = 87
+    Height = 13
+    Caption = #1043#1088#1091#1087#1087#1072':  '#1048#1042#1058'-163'
+  end
+end
